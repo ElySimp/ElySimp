@@ -1,7 +1,8 @@
 <div align="center">
   <picture>
-    <img src="img/profile.gif" width="70%" alt="ElySimp Profile Banner">
+    <img src="img/profile.gif" width="80%" alt="ElySimp Profile Banner">
   </picture>
+</div>
 
 ## 💫 About Me
 
@@ -11,7 +12,7 @@ class ElySimp:
         self.education = "Informatics Engineering @ Esa Unggul University"
         self.interests = ["AI & Machine Learning", "Networking", "Cyber Security"]
         self.current_learning = "Google Cloud Gen AI & Networking"
-      
+    
     def get_skills(self):
         return {
             "languages": ["Python", "C++", "JavaScript"],
@@ -23,50 +24,49 @@ class ElySimp:
 
 ## 🧪 Digital Laboratory
 
-<div style="display: flex;">
-<div style="flex: 1;">
-<div align="center">
-  <table>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><b>Languages</b></td>
-      <td>
-        <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Web Development</b></td>
-      <td>
-        <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>AI & ML</b></td>
-      <td>
-        <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Image_Classification-4B8BBE?style=for-the-badge" alt="Image Classification"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Cloud & DevOps</b></td>
-      <td>
-        <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
-      </td>
-    </tr>  </table>
-</div>
-</div>
-<div style="flex: 0 0 auto; padding-left: 10px;">
-  <img align="right" alt="Elysia Wow" src="img/elysia-wow.gif" width="120%" />
-</div>
-</div>
+<table>
+  <tr valign="top">
+    <td>
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Technologies</th>
+        </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Development</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & ML</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Image_Classification-4B8BBE?style=for-the-badge" alt="Image Classification"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
+    </td>  </tr>
+      </table>
+    </td>
+    <td style="padding-left: 20px;">
+      <img alt="Elysia Wow" src="img/elysia-wow.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h3>💻 Development Environment</h3>
@@ -93,8 +93,6 @@ class ElySimp:
     <td width="50%" align="center">
       <h3>📝 Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElySimp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" /><br><br>
-      <b>Note:</b> This chart shows languages from public repos only
-      <br><br>
       <h3>⏲️ Weekly Coding Time</h3>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elysimp&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&layout=compact" alt="Weekly Coding Stats" />
     </td>
@@ -130,9 +128,8 @@ class ElySimp:
   <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
---- -->
+--- -
 
-<div align="center">
 
 ### 🐍 Contribution Activity
 
