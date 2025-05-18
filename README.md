@@ -134,6 +134,6 @@ class ElySimp:
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ElySimp/ElySimp/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/ElySimp/ElySimp/output/github-contribution-grid-snake-dark.svg)
   
 </div>
