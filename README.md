@@ -94,7 +94,7 @@ class ElySimp:
       <h3>📝 Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElySimp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" /><br><br>
       <h3>⏲️ Weekly Coding Time</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elysimp&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&layout=compact" alt="Weekly Coding Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ElySimp&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&layout=compact" alt="Weekly Coding Stats" />
     </td>
   </tr>
 </table>
