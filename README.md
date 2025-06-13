@@ -88,7 +88,7 @@ class ElySimp:
       <h3>💫 Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=ElySimp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&border_radius=15" alt="ElySimp's GitHub Stats" />
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&fire=FF00FF&currStreakNum=FF00FF&currStreakLabel=FF00FF&ring=FF69B4" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <h3>📝 Most Used Languages</h3>
