@@ -107,7 +107,11 @@ class ElySimp:
 
 <div align="center">
   <p><i>"It's never too late to start anything ✨"</i></p>
-  <img src="https://raw.githubusercontent.com/ElySimp/ElySimp/main/github-metrics.svg" alt="ElySimp's GitHub Metrics" />
+  <!-- Trophy service is currently down/unstable
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ElySimp&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </a>
+  -->
 </div>
 
 <div align="center">
@@ -125,13 +129,6 @@ class ElySimp:
 | **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | Data Science project collecting rainfall data from BMKG with an interactive dashboard for visualization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square) |
 | **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Research implementation analyzing SVM vs Naive Bayes performance using Explainable AI (XAI) techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) |
 | **[SynaAI](https://github.com/ElySimp/SynaAI)** 🔒 | *Private Project* - A personal, locally-hosted AI assistant designed for autonomous tasks and interaction. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI_Assistant-000000?style=flat-square) |
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
 
 ---
 
