@@ -9,10 +9,14 @@
 ```python
 class ElySimp:
     def __init__(self):
-        self.education = "Informatics Engineering @ Esa Unggul University"
+        self.name = "ElySimp"
+        self.education = [
+            "Software Engineering @ Nanjing Xiaozhuang University, China",
+            "Informatics Engineering @ Esa Unggul University, Indonesia"
+        ]
         self.interests = ["AI & Machine Learning", "Networking", "Cyber Security"]
         self.current_learning = "Google Cloud Gen AI & Networking"
-    
+  
     def get_skills(self):
         return {
             "languages": ["Python", "C++", "JavaScript"],
@@ -88,7 +92,7 @@ class ElySimp:
       <h3>💫 Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=ElySimp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&border_radius=15" alt="ElySimp's GitHub Stats" />
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&fire=FF00FF&currStreakNum=FF00FF&currStreakLabel=FF00FF&ring=FF69B4" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&fire=FF00FF&currStreakNum=FF00FF&currStreakLabel=FF00FF&ring=FF69B4" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <h3>📝 Most Used Languages</h3>
@@ -102,8 +106,8 @@ class ElySimp:
 ## 🏆 Achievement Showcase
 
 <div align="center">
-  <p><i>"The code that powers your Imagination ✨"</i></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ElySimp&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <p><i>"It's never too late to start anything ✨"</i></p>
+  <img src="https://raw.githubusercontent.com/ElySimp/ElySimp/main/github-metrics.svg" alt="ElySimp's GitHub Metrics" />
 </div>
 
 <div align="center">
@@ -113,27 +117,28 @@ class ElySimp:
   <img src="https://komarev.com/ghpvc/?username=ElySimp&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </div>
 
-## ⚡ Interests
 
-- 🧠 Machine Learning & Artificial Intelligence
-- 🔐 Cyber Security
-- 🌐 Networking
-- 🖥️ Web Development
-- 🎮 Game Scripting
+## 🚀 Featured Projects
 
-<!-- ## 📫 Connect With Me
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | Data Science project collecting rainfall data from BMKG with an interactive dashboard for visualization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square) |
+| **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Research implementation analyzing SVM vs Naive Bayes performance using Explainable AI (XAI) techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) |
+| **[SynaAI](https://github.com/ElySimp/SynaAI)** 🔒 | *Private Project* - A personal, locally-hosted AI assistant designed for autonomous tasks and interaction. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI_Assistant-000000?style=flat-square) |
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div> -->
+</div>
 
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
-  
+
   ![Snake animation](https://raw.githubusercontent.com/ElySimp/ElySimp/output/github-contribution-grid-snake-dark.svg)
-  
+
 </div>
