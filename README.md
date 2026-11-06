@@ -14,15 +14,15 @@ class ElySimp:
             "Software Engineering @ Nanjing Xiaozhuang University, China",
             "Informatics Engineering @ Esa Unggul University, Indonesia"
         ]
-        self.interests = ["AI & Machine Learning", "Networking", "Cyber Security"]
-        self.current_learning = "Google Cloud Gen AI & Networking"
+        self.interests = ["AI & Machine Learning", "Backend Engineering", "Cyber Security"]
+        self.current_learning = "Deep Learning (PyTorch) & High-Performance Backend"
   
     def get_skills(self):
         return {
-            "languages": ["Python", "C++", "JavaScript"],
-            "web_dev": ["HTML", "CSS", "React"],
-            "ai_ml": ["TensorFlow", "NLP", "Time Series", "Image Classification"],
-            "cloud": ["Google Cloud Platform"]
+            "primary_language": "Python",
+            "familiar_languages": ["Kotlin", "Java", "SQL", "C++", "JavaScript"],
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-Learn", "NLP", "XAI"],
+            "backend_systems": ["Spring Boot", "Django", "PostgreSQL", "Linux / Bash"]
         }
 ```
 
@@ -40,30 +40,40 @@ class ElySimp:
     <td><b>Languages</b></td>
     <td>
       <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" alt="Python"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
       <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
       <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
     </td>
   </tr>
   <tr>
-    <td><b>Web Development</b></td>
+    <td><b>AI & Data Science</b></td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & ML</b></td>
-    <td>
+      <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
       <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Image_Classification-4B8BBE?style=for-the-badge" alt="Image Classification"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP"/></a>
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
-    </td>  </tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems & Tooling</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+  </tr>
       </table>
     </td>
     <td style="padding-left: 20px;">
@@ -75,6 +85,7 @@ class ElySimp:
 <div align="center">
   <h3>💻 Development Environment</h3>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux VPS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
@@ -126,9 +137,11 @@ class ElySimp:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | Data Science project collecting rainfall data from BMKG with an interactive dashboard for visualization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square) |
-| **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Research implementation analyzing SVM vs Naive Bayes performance using Explainable AI (XAI) techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) |
-| **[SynaAI](https://github.com/ElySimp/SynaAI)** 🔒 | *Private Project* - A personal, locally-hosted AI assistant designed for autonomous tasks and interaction. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI_Assistant-000000?style=flat-square) |
+| **[HSK Quest](https://github.com/ElySimp/HSK_Quest)** | Adaptive Chinese learning & assessment platform tailored for HSK 1–4 university graduation preparation. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Comparative NLP research benchmarking SVM vs Naive Bayes on 50k IMDB reviews with Explainable AI (XAI) layers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) |
+| **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | Automated meteorological data pipeline collecting, cleaning, and visualizing precipitation records from BMKG sources. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square) |
+| **[HomePoker Leaderboard](https://github.com/ElySimp/HomePoker-Leaderboard)** | Algorithmic rating model adapted from pairwise Elo calculations to handle multiplayer zero-sum poker chip dynamics. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-00599C?style=flat-square) |
+| **[Alien Swarm Localization](https://github.com/ElySimp/reactivedrop_translations)** | Official English-to-Indonesian game localization, UI text adaptation, and in-engine regression QA testing. | ![Valve VDF](https://img.shields.io/badge/Valve-KeyValues-171a21?style=flat-square&logo=steam&logoColor=white) ![Localization](https://img.shields.io/badge/Localization-QA-blue?style=flat-square) |
 
 ---
 
