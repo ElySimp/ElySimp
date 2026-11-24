@@ -15,14 +15,14 @@ class ElySimp:
             "Informatics Engineering @ Esa Unggul University, Indonesia"
         ]
         self.interests = ["AI & Machine Learning", "Backend Engineering", "Cyber Security"]
-        self.current_learning = "Deep Learning (PyTorch) & High-Performance Backend"
+        self.current_learning = "On-Device ML (TFLite / PyTorch) & Async Backend Architecture"
   
     def get_skills(self):
         return {
             "primary_language": "Python",
             "familiar_languages": ["Kotlin", "Java", "SQL", "C++", "JavaScript"],
-            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-Learn", "NLP", "XAI"],
-            "backend_systems": ["Spring Boot", "Django", "PostgreSQL", "Linux / Bash"]
+            "ai_ml": ["PyTorch", "TensorFlow / TFLite", "Scikit-Learn", "NLP", "XAI (LIME)"],
+            "backend_systems": ["FastAPI", "Spring Boot", "Django", "PostgreSQL", "MySQL", "Linux / Bash"]
         }
 ```
 
@@ -51,6 +51,7 @@ class ElySimp:
     <td>
       <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
       <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
       <a href="#"><img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" alt="NLP"/></a>
@@ -59,10 +60,12 @@ class ElySimp:
   <tr>
     <td><b>Backend & DB</b></td>
     <td>
+      <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
       <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
     </td>
   </tr>
   <tr>
@@ -102,27 +105,22 @@ class ElySimp:
     <td width="50%" align="center">
       <h3>💫 Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=ElySimp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true&border_radius=15" alt="ElySimp's GitHub Stats" />
-      <br><br>
-      <img src="https://streak-stats.demolab.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&fire=FF00FF&currStreakNum=FF00FF&currStreakLabel=FF00FF&ring=FF69B4" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <h3>📝 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElySimp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" /><br><br>
-      <h3>⏲️ Weekly Coding Time</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ElySimp&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15&layout=compact" alt="Weekly Coding Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElySimp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ElySimp&theme=radical&background=0D1117&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&fire=FF00FF&currStreakNum=FF00FF&currStreakLabel=FF00FF&ring=FF69B4" alt="GitHub Streak" />
+</div>
 
 ## 🏆 Achievement Showcase
 
 <div align="center">
   <p><i>"It's never too late to start anything ✨"</i></p>
-  <!-- Trophy service is currently down/unstable
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ElySimp&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-  -->
 </div>
 
 <div align="center">
@@ -137,11 +135,11 @@ class ElySimp:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[HSK Quest](https://github.com/ElySimp/HSK_Quest)** | Adaptive Chinese learning & assessment platform tailored for HSK 1–4 university graduation preparation. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Comparative NLP research benchmarking SVM vs Naive Bayes on 50k IMDB reviews with Explainable AI (XAI) layers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) |
-| **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | Automated meteorological data pipeline collecting, cleaning, and visualizing precipitation records from BMKG sources. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square) |
-| **[HomePoker Leaderboard](https://github.com/ElySimp/HomePoker-Leaderboard)** | Algorithmic rating model adapted from pairwise Elo calculations to handle multiplayer zero-sum poker chip dynamics. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-00599C?style=flat-square) |
-| **[Alien Swarm Localization](https://github.com/ElySimp/reactivedrop_translations)** | Official English-to-Indonesian game localization, UI text adaptation, and in-engine regression QA testing. | ![Valve VDF](https://img.shields.io/badge/Valve-KeyValues-171a21?style=flat-square&logo=steam&logoColor=white) ![Localization](https://img.shields.io/badge/Localization-QA-blue?style=flat-square) |
+| **[HSK Quest](https://github.com/ElySimp/HSK_Quest)** | Gamified HSK 1–4 learning platform (Kotlin Android + async FastAPI/PostgreSQL) with 3 on-device TFLite ML models (Hanzi MobileNetV2 92.67% Top-1, 5-Tone BiGRU+CTC 90.85%, Adaptive CAT MLP). | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **[HomePoker Leaderboard](https://github.com/ElySimp/HomePoker-Leaderboard)** ([Live](https://elysimp.github.io/HomePoker-Leaderboard/index.html)) | Static leaderboard & training hub tracking 15 players across 23 sessions with a custom zero-sum multiplayer Elo engine and GTO Poker/Blackjack trainers. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) |
+| **[Sentiment Analysis XAI](https://github.com/ElySimp/Sentiment-Analysis-SVM-Naive-Bayes)** | Comparative NLP study on 50k IMDB reviews benchmarking LinearSVC (90.41% acc) vs. Multinomial Naïve Bayes (87.89%) with LIME & feature-weight explainability. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LIME](https://img.shields.io/badge/LIME-XAI-8A2BE2?style=flat-square) |
+| **[Curah Hujan Datasets](https://github.com/ElySimp/Curah-Hujan-Datasets)** | MySQL Star Schema data warehouse (1,830 daily records across 5 West Java BMKG stations) with a 6-tab bilingual Streamlit & Plotly analytics dashboard. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **[Alien Swarm Localization](https://github.com/ElySimp/reactivedrop_translations)** | Official English-to-Indonesian game localization and in-engine QA (7,346+ lines updated across 50 commits). | ![Valve VDF](https://img.shields.io/badge/Valve-KeyValues-171a21?style=flat-square&logo=steam&logoColor=white) ![Localization](https://img.shields.io/badge/Localization-QA-blue?style=flat-square) |
 
 ---
 

@@ -1,0 +1,16 @@
+# Private CV and local career documents (never push to public profile repo)
+private_docs/
+portfolio_site/
+*.docx
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
